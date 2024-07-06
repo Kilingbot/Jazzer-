@@ -37,9 +37,9 @@
 
 ## 复现步骤
 ***
-使用Jazzer工具对FastJSON库进行模糊测试。
-提供包含非法数字格式（例如单独的负号）的JSON数据。
-观察程序抛出 java.lang.NumberFormatException 异常。
+* 使用Jazzer工具对FastJSON库进行模糊测试。
+* 提供包含非法数字格式（例如单独的负号）的JSON数据。
+* 观察程序抛出 java.lang.NumberFormatException 异常。
 ## 修复建议
 ***
 * 输入验证: 在解析JSON数据之前，增加输入验证逻辑，确保数据格式合法。
