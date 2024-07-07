@@ -10,8 +10,8 @@ When running tests for a library, Gson, with a Fuzzing testing tool, JQF,  `java
 
 
 ## JQF Screenshot
-![id_000000-log.png](./failures/id_000000-log.png)
-![id_000001-log.png](./failures/id_000001-log.png)
+![id_000000-log.png](failures/id_000000-log.png)
+![id_000001-log.png](failures/id_000001-log.png)
 ## Details
 #### Error Message:
 - id_000000
