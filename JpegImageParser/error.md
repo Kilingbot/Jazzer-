@@ -46,7 +46,7 @@ at JpegImageParserFuzzer.fuzzerTestOneInput(JpegImageParserFuzzer.java:27)
 ```
 
 ## 影响范围
-#### 受影响版本: 1.0-alpha2
+#### 受影响版本: org.apache.commons:commons-imaging 1.0-alpha2
 
 #### 潜在影响:
 

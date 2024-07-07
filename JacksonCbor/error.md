@@ -38,7 +38,7 @@ at JacksonCborFuzzer.fuzzerTestOneInput(JacksonCborFuzzer.java:29)
 ```
 
 ## 影响范围
-#### 受影响版本: 2.12.1
+#### 受影响版本: com.fasterxml.jackson.core 2.12.1
 
 #### 潜在影响:
 

@@ -30,7 +30,7 @@
 * 异常沿着调用栈传播，最终在 GifImageParserFuzzer.fuzzerTestOneInput 方法中被捕获。
 
 ## 影响范围
-#### 受影响版本: 1.0-alpha2
+#### 受影响版本: org.apache.commons:commons-imaging 1.0-alpha2
 
 #### 潜在影响:
 ***

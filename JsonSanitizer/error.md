@@ -38,7 +38,7 @@ Caused by: com.code_intelligence.jazzer.api.FuzzerSecurityIssueHigh: Output cont
 ```
 
 ## 影响范围
-#### 受影响版本: 1.2.1
+#### 受影响版本: com.mikesamuel:json-sanitizer 1.2.1
 
 #### 潜在影响:
 

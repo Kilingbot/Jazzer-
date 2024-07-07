@@ -28,7 +28,7 @@
 * 异常沿着调用栈传播，最终在 FastJsonFuzzer.fuzzerTestOneInput 方法中被捕获。
 
 ## 影响范围
-#### 受影响版本: 1.2.75
+#### 受影响版本: com.alibaba:fastjson 1.2.75
 
 #### 潜在影响:
 ***

@@ -71,7 +71,7 @@ Requests to destinations based on untrusted data could lead to exfiltration of s
 确保你的代码在处理输入数据时进行适当的验证和清理，以防止生成不正确的URL或请求。
 
 ## 影响范围
-#### 受影响版本: 1.1.14
+#### 受影响版本: org.apache.xmlgraphics:batik 1.1.14
 
 #### 潜在影响:
 ***
