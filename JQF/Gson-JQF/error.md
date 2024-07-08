@@ -25,7 +25,7 @@ java.lang.NumberFormatException: \uo/MZ
 	at com.google.gson.Gson.fromJson(Gson.java:852)
 	at com.google.gson.Gson.fromJson(Gson.java:801)
 	at com.google.gson.Gson.fromJson(Gson.java:773)
-	at JsonTest.fuzzJSONParser(JsonTest.java:22)
+	at edu.berkeley.cs.jqf.examples.gson.JsonTest.fuzzJSONParser(JsonTest.java:22)
 ```
 - id_000001
 ```
@@ -39,7 +39,7 @@ java.lang.NumberFormatException: \ua!BN
 	at com.google.gson.Gson.fromJson(Gson.java:852)
 	at com.google.gson.Gson.fromJson(Gson.java:801)
 	at com.google.gson.Gson.fromJson(Gson.java:773)
-	at JsonTest.fuzzJSONParser(JsonTest.java:22)
+	at edu.berkeley.cs.jqf.examples.gson.JsonTest.fuzzJSONParser(JsonTest.java:22)
 ```
 
 #### Error Analysis:
