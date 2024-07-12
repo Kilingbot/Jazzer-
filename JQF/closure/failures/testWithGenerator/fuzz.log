@@ -1,0 +1,1102 @@
+Saving new input (at run 1): input #0 of size 48; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000000 random +count +cov
+Saving new input (at run 2): input #1 of size 18; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000001 src:000000,havoc:12 +count +cov
+Saving new input (at run 3): input #2 of size 5; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000002 src:000000,havoc:13 +count
+Saving new input (at run 5): input #3 of size 48; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000003 src:000000,havoc:1 +count +cov
+Saving new input (at run 6): input #4 of size 9; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000004 src:000000,havoc:1 +count +cov +valid
+Saving new input (at run 8): input #5 of size 437; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000005 src:000000,havoc:10 +count +cov
+Saving new input (at run 10): input #6 of size 48; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000006 src:000000,havoc:7 +count +cov +valid
+Saving new input (at run 12): input #7 of size 48; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000007 src:000000,havoc:2 +count
+Saving new input (at run 13): input #8 of size 18; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000008 src:000000,havoc:3 +count
+Saving new input (at run 18): input #9 of size 47; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000009 src:000000,havoc:2 +count +cov +valid
+Saving new input (at run 20): input #10 of size 6304; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000010 src:000000,havoc:6 +count +cov
+Saving new input (at run 24): input #11 of size 6; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000011 src:000000,havoc:22 +count +cov
+Saving new input (at run 26): input #12 of size 105; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000012 src:000000,havoc:11 +count +cov
+Saving new input (at run 27): input #13 of size 5; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000013 src:000000,havoc:2 +count
+Saving new input (at run 34): input #14 of size 5; reason = +count +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000014 src:000000,havoc:1 +count +valid
+Saving new input (at run 35): input #15 of size 75; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000015 src:000000,havoc:7 +count
+Saving new input (at run 37): input #16 of size 48; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000016 src:000000,havoc:2 +count
+Saving new input (at run 38): input #17 of size 62; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000017 src:000000,havoc:3 +count +cov
+Saving new input (at run 41): input #18 of size 3646; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000018 src:000000,havoc:1 +count +cov
+Saving new input (at run 43): input #19 of size 52; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000019 src:000000,havoc:3 +count
+Saving new input (at run 44): input #20 of size 8745; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000020 src:000000,havoc:15 +count +cov
+Saving new input (at run 46): input #21 of size 728; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000021 src:000000,havoc:4 +count
+Saving new input (at run 48): input #22 of size 27; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000022 src:000000,havoc:13 +count +cov +valid
+Saving new input (at run 49): input #23 of size 48; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000023 src:000000,havoc:11 +count +cov +valid
+Saving new input (at run 53): input #24 of size 773; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000024 src:000000,havoc:9 +count
+Saving new input (at run 55): input #25 of size 6501; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000025 src:000000,havoc:13 +count
+Saving new input (at run 57): input #26 of size 57; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000026 src:000000,havoc:2 +count +cov +valid
+Saving new input (at run 60): input #27 of size 52; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000027 src:000000,havoc:2 +count
+Saving new input (at run 61): input #28 of size 9842; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000028 src:000000,havoc:6 +count +cov
+Saving new input (at run 65): input #29 of size 67; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000029 src:000001,havoc:2 +count +cov
+Saving new input (at run 67): input #30 of size 33; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000030 src:000001,havoc:2 +count
+Saving new input (at run 69): input #31 of size 86; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000031 src:000001,havoc:7 +count +cov
+Saving new input (at run 71): input #32 of size 15; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000032 src:000001,havoc:9 +count +cov +valid
+Saving new input (at run 72): input #33 of size 1104; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000033 src:000001,havoc:2 +count
+Saving new input (at run 73): input #34 of size 109; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000034 src:000001,havoc:2 +count
+Saving new input (at run 76): input #35 of size 28; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000035 src:000001,havoc:13 +count
+Saving new input (at run 77): input #36 of size 139; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000036 src:000001,havoc:4 +count +cov
+Saving new input (at run 80): input #37 of size 88; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000037 src:000001,havoc:12 +count
+Saving new input (at run 81): input #38 of size 92; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000038 src:000001,havoc:1 +count +cov
+Saving new input (at run 82): input #39 of size 66; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000039 src:000001,havoc:2 +count
+Saving new input (at run 86): input #40 of size 33; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000040 src:000001,havoc:11 +count
+Saving new input (at run 87): input #41 of size 18; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000041 src:000001,havoc:5 +count
+Saving new input (at run 90): input #42 of size 88; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000042 src:000001,havoc:21 +count +cov
+Saving new input (at run 92): input #43 of size 42; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000043 src:000001,havoc:3 +count +cov
+Saving new input (at run 93): input #44 of size 101; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000044 src:000001,havoc:5 +count
+Saving new input (at run 99): input #45 of size 1789; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000045 src:000001,havoc:4 +count
+Saving new input (at run 113): input #46 of size 387; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000046 src:000001,havoc:4 +count
+Saving new input (at run 114): input #47 of size 7155; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000047 src:000001,havoc:11 +count
+Saving new input (at run 117): input #48 of size 68; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000048 src:000001,havoc:7 +count
+Saving new input (at run 118): input #49 of size 16; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000049 src:000001,havoc:14 +count +cov +valid
+Saving new input (at run 121): input #50 of size 374; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000050 src:000001,havoc:17 +count
+Saving new input (at run 127): input #51 of size 50; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000051 src:000001,havoc:1 +count +cov +valid
+Saving new input (at run 135): input #52 of size 32; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000052 src:000001,havoc:2 +count
+Saving new input (at run 138): input #53 of size 14; reason = +count +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000053 src:000001,havoc:23 +count +valid
+Saving new input (at run 141): input #54 of size 5463; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000054 src:000001,havoc:3 +count
+Saving new input (at run 142): input #55 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000055 src:000001,havoc:4 +count +cov +valid
+Saving new input (at run 143): input #56 of size 40; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000056 src:000001,havoc:5 +count +cov +valid
+Saving new input (at run 147): input #57 of size 16; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000057 src:000002,havoc:12 +count +cov +valid
+Saving new input (at run 151): input #58 of size 8034; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000058 src:000003,havoc:1 +count
+Saving new input (at run 153): input #59 of size 7261; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000059 src:000003,havoc:2 +count
+Saving new input (at run 154): input #60 of size 28; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000060 src:000003,havoc:5 +count +cov +valid
+Saving new input (at run 156): input #61 of size 124; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000061 src:000003,havoc:8 +count +cov
+Saving new input (at run 166): input #62 of size 128; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000062 src:000003,havoc:6 +count +cov
+Saving new input (at run 167): input #63 of size 83; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000063 src:000003,havoc:11 +count +cov
+Saving new input (at run 177): input #64 of size 16; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000064 src:000003,havoc:11 +count +cov +valid
+Saving new input (at run 183): input #65 of size 2399; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000065 src:000003,havoc:4 +count
+Saving new input (at run 184): input #66 of size 5444; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000066 src:000003,havoc:16 +count
+Saving new input (at run 201): input #67 of size 34; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000067 src:000003,havoc:5 +count
+Saving new input (at run 205): input #68 of size 72; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000068 src:000003,havoc:9 +count
+Saving new input (at run 206): input #69 of size 8675; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000069 src:000003,havoc:7 +count
+Saving new input (at run 208): input #70 of size 43; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000070 src:000003,havoc:12 +count +cov +valid
+Saving new input (at run 214): input #71 of size 106; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000071 src:000004,havoc:26 +count
+Saving new input (at run 225): input #72 of size 35; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000072 src:000004,havoc:7 +count +cov +valid
+Saving new input (at run 238): input #73 of size 9; reason = +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000073 src:000004,havoc:17 +valid
+Saving new input (at run 240): input #74 of size 9; reason = +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000074 src:000004,havoc:2 +valid
+Saving new input (at run 249): input #75 of size 14; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000075 src:000004,havoc:8 +count
+Saving new input (at run 259): input #76 of size 39; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000076 src:000004,havoc:5 +count +cov +valid
+Saving new input (at run 265): input #77 of size 15; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000077 src:000004,havoc:3 +count
+Saving new input (at run 280): input #78 of size 9; reason = +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000078 src:000004,havoc:17 +valid
+Saving new input (at run 281): input #79 of size 33; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000079 src:000004,havoc:7 +count
+Saving new input (at run 290): input #80 of size 26; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000080 src:000004,havoc:5 +count
+Saving new input (at run 300): input #81 of size 54; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000081 src:000004,havoc:6 +count +cov +valid
+Saving new input (at run 309): input #82 of size 9; reason = +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000082 src:000004,havoc:1 +valid
+Saving new input (at run 355): input #83 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000083 src:000004,havoc:5 +count +cov +valid
+Saving new input (at run 414): input #84 of size 270; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000084 src:000004,havoc:17 +count +cov
+Saving new input (at run 426): input #85 of size 174; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000085 src:000004,havoc:3 +count +cov
+Saving new input (at run 430): input #86 of size 76; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000086 src:000004,havoc:14 +count +cov +valid
+Found crash: class java.lang.NullPointerException - NAME undefined 1 [length: 9] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000000 src:000004,havoc:22 +crash
+Saving new input (at run 432): input #87 of size 55; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000087 src:000004,havoc:1 +count
+Saving new input (at run 434): input #88 of size 40; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000088 src:000004,havoc:8 +count +cov +valid
+Saving new input (at run 454): input #89 of size 60; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000089 src:000004,havoc:2 +count +cov +valid
+Saving new input (at run 460): input #90 of size 31; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000090 src:000004,havoc:18 +count +cov +valid
+Saving new input (at run 472): input #91 of size 8761; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000091 src:000004,havoc:5 +count
+Saving new input (at run 480): input #92 of size 34; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000092 src:000004,havoc:3 +count +cov +valid
+Saving new input (at run 497): input #93 of size 27; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000093 src:000004,havoc:6 +count +cov +valid
+Saving new input (at run 506): input #94 of size 106; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000094 src:000004,havoc:6 +count +cov
+Saving new input (at run 509): input #95 of size 36; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000095 src:000004,havoc:8 +count +cov +valid
+Saving new input (at run 524): input #96 of size 43; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000096 src:000004,havoc:14 +count
+Saving new input (at run 528): input #97 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000097 src:000005,havoc:3 +count
+Saving new input (at run 531): input #98 of size 2601; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000098 src:000005,havoc:3 +count
+Saving new input (at run 533): input #99 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000099 src:000005,havoc:2 +count
+Saving new input (at run 538): input #100 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000100 src:000005,havoc:2 +count
+Saving new input (at run 539): input #101 of size 125; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000101 src:000005,havoc:2 +count
+Saving new input (at run 540): input #102 of size 437; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000102 src:000005,havoc:1 +count +cov
+Saving new input (at run 542): input #103 of size 515; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000103 src:000005,havoc:2 +count
+Saving new input (at run 547): input #104 of size 1165; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000104 src:000005,havoc:4 +count
+Saving new input (at run 553): input #105 of size 139; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000105 src:000005,havoc:6 +count +cov
+Saving new input (at run 554): input #106 of size 58; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000106 src:000005,havoc:3 +count +cov
+Saving new input (at run 555): input #107 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000107 src:000005,havoc:2 +count
+Saving new input (at run 556): input #108 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000108 src:000005,havoc:1 +count
+Saving new input (at run 559): input #109 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000109 src:000005,havoc:5 +count
+Saving new input (at run 561): input #110 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000110 src:000005,havoc:2 +count
+Saving new input (at run 563): input #111 of size 437; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000111 src:000005,havoc:4 +count
+Saving new input (at run 566): input #112 of size 351; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000112 src:000005,havoc:1 +count
+Saving new input (at run 572): input #113 of size 5280; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000113 src:000005,havoc:20 +count
+Saving new input (at run 573): input #114 of size 1989; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000114 src:000005,havoc:5 +count
+Saving new input (at run 575): input #115 of size 54; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000115 src:000005,havoc:24 +count +cov +valid
+Saving new input (at run 579): input #116 of size 47; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000116 src:000006,havoc:3 +count
+Saving new input (at run 583): input #117 of size 100; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000117 src:000006,havoc:6 +count +cov +valid
+Saving new input (at run 597): input #118 of size 34; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000118 src:000006,havoc:9 +count +cov +valid
+Saving new input (at run 599): input #119 of size 3350; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000119 src:000006,havoc:23 +count
+Saving new input (at run 602): input #120 of size 7931; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000120 src:000006,havoc:2 +count
+Saving new input (at run 609): input #121 of size 69; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000121 src:000006,havoc:3 +count +cov +valid
+Saving new input (at run 616): input #122 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000122 src:000006,havoc:8 +count +cov +valid
+Saving new input (at run 618): input #123 of size 25; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000123 src:000006,havoc:25 +count +cov +valid
+Saving new input (at run 622): input #124 of size 47; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000124 src:000006,havoc:1 +count +cov +valid
+Saving new input (at run 626): input #125 of size 86; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000125 src:000006,havoc:1 +count
+Saving new input (at run 639): input #126 of size 48; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000126 src:000006,havoc:2 +count +cov +valid
+Saving new input (at run 664): input #127 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000127 src:000006,havoc:1 +count +cov +valid
+Saving new input (at run 666): input #128 of size 9699; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000128 src:000006,havoc:14 +count
+Saving new input (at run 669): input #129 of size 63; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000129 src:000006,havoc:3 +count +cov +valid
+Saving new input (at run 689): input #130 of size 10058; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000130 src:000006,havoc:4 +count
+Saving new input (at run 699): input #131 of size 70; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000131 src:000006,havoc:4 +count
+Saving new input (at run 706): input #132 of size 41; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000132 src:000006,havoc:6 +count
+Saving new input (at run 708): input #133 of size 98; reason = +count +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000133 src:000006,havoc:4 +count +valid
+Saving new input (at run 710): input #134 of size 94; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000134 src:000006,havoc:4 +count +cov +valid
+Saving new input (at run 718): input #135 of size 77; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000135 src:000006,havoc:3 +count +cov
+Saving new input (at run 726): input #136 of size 45; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000136 src:000009,havoc:11 +count
+Saving new input (at run 739): input #137 of size 85; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000137 src:000009,havoc:3 +count +cov +valid
+Saving new input (at run 740): input #138 of size 58; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000138 src:000009,havoc:3 +count
+Saving new input (at run 761): input #139 of size 159; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000139 src:000009,havoc:2 +count +cov
+Saving new input (at run 763): input #140 of size 29; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000140 src:000009,havoc:23 +count
+Saving new input (at run 764): input #141 of size 36; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000141 src:000009,havoc:3 +count +cov +valid
+Saving new input (at run 778): input #142 of size 65; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000142 src:000009,havoc:8 +count +cov +valid
+Saving new input (at run 779): input #143 of size 65; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000143 src:000009,havoc:1 +count
+Saving new input (at run 789): input #144 of size 6990; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000144 src:000009,havoc:5 +count
+Saving new input (at run 796): input #145 of size 45; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000145 src:000009,havoc:8 +count
+Saving new input (at run 799): input #146 of size 87; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000146 src:000009,havoc:3 +count +cov +valid
+Saving new input (at run 813): input #147 of size 180; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000147 src:000009,havoc:3 +count +cov +valid
+Saving new input (at run 818): input #148 of size 29; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000148 src:000009,havoc:6 +count
+Saving new input (at run 828): input #149 of size 58; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000149 src:000009,havoc:12 +count
+Saving new input (at run 855): input #150 of size 51; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000150 src:000009,havoc:9 +count +cov +valid
+Saving new input (at run 859): input #151 of size 9069; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000151 src:000009,havoc:2 +count
+Saving new input (at run 867): input #152 of size 353; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000152 src:000009,havoc:4 +count
+Saving new input (at run 871): input #153 of size 132; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000153 src:000009,havoc:3 +count
+Saving new input (at run 874): input #154 of size 6500; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000154 src:000009,havoc:5 +count +cov
+Saving new input (at run 882): input #155 of size 89; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000155 src:000010,havoc:2 +count +cov +valid
+Saving new input (at run 883): input #156 of size 9980; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000156 src:000010,havoc:31 +count +cov
+Saving new input (at run 906): input #157 of size 116; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000157 src:000011,havoc:7 +count
+Saving new input (at run 952): input #158 of size 77; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000158 src:000011,havoc:15 +count
+Saving new input (at run 973): input #159 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000159 src:000012,havoc:2 +count +cov +valid
+Saving new input (at run 977): input #160 of size 61; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000160 src:000012,havoc:8 +count
+Saving new input (at run 983): input #161 of size 139; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000161 src:000012,havoc:3 +count
+Saving new input (at run 986): input #162 of size 75; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000162 src:000012,havoc:12 +count
+Saving new input (at run 992): input #163 of size 4123; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000163 src:000012,havoc:6 +count
+Saving new input (at run 994): input #164 of size 67; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000164 src:000012,havoc:5 +count
+Saving new input (at run 995): input #165 of size 106; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000165 src:000012,havoc:3 +count
+Saving new input (at run 998): input #166 of size 72; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000166 src:000012,havoc:7 +count
+Saving new input (at run 1021): input #167 of size 33; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000167 src:000012,havoc:8 +count
+Saving new input (at run 1026): input #168 of size 115; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000168 src:000012,havoc:16 +count
+Saving new input (at run 1048): input #169 of size 23; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000169 src:000014,havoc:4 +count
+Saving new input (at run 1068): input #170 of size 66; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000170 src:000014,havoc:3 +count
+Saving new input (at run 1084): input #171 of size 49; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000171 src:000014,havoc:4 +count +cov +valid
+Saving new input (at run 1091): input #172 of size 47; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000172 src:000014,havoc:8 +count
+Saving new input (at run 1098): input #173 of size 5548; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000173 src:000014,havoc:1 +count +cov
+Saving new input (at run 1121): input #174 of size 46; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000174 src:000014,havoc:10 +count +cov +valid
+Saving new input (at run 1149): input #175 of size 38; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000175 src:000014,havoc:7 +count +cov +valid
+Saving new input (at run 1158): input #176 of size 74; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000176 src:000014,havoc:6 +count +cov
+Saving new input (at run 1164): input #177 of size 34; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000177 src:000014,havoc:1 +count
+Saving new input (at run 1165): input #178 of size 202; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000178 src:000014,havoc:1 +count
+Saving new input (at run 1187): input #179 of size 68; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000179 src:000014,havoc:7 +count
+Saving new input (at run 1237): input #180 of size 636; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000180 src:000014,havoc:3 +count +cov
+Saving new input (at run 1245): input #181 of size 77; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000181 src:000017,havoc:15 +count +cov
+Saving new input (at run 1247): input #182 of size 35; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000182 src:000017,havoc:40 +count +cov +valid
+Saving new input (at run 1249): input #183 of size 70; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000183 src:000017,havoc:13 +count +cov +valid
+Saving new input (at run 1253): input #184 of size 122; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000184 src:000017,havoc:18 +count +cov
+Saving new input (at run 1256): input #185 of size 388; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000185 src:000017,havoc:2 +count
+Saving new input (at run 1257): input #186 of size 210; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000186 src:000017,havoc:2 +count +cov
+Saving new input (at run 1310): input #187 of size 9580; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000187 src:000018,havoc:7 +count
+Saving new input (at run 1329): input #188 of size 364; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000188 src:000020,havoc:9 +count
+Saving new input (at run 1333): input #189 of size 8690; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000189 src:000020,havoc:1 +count
+Saving new input (at run 1342): input #190 of size 49; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000190 src:000022,havoc:1 +count +cov +valid
+Saving new input (at run 1343): input #191 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000191 src:000022,havoc:2 +count +cov +valid
+Saving new input (at run 1344): input #192 of size 459; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000192 src:000022,havoc:4 +count
+Saving new input (at run 1354): input #193 of size 26; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000193 src:000022,havoc:2 +count
+Saving new input (at run 1355): input #194 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000194 src:000022,havoc:1 +count +cov +valid
+Saving new input (at run 1359): input #195 of size 105; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000195 src:000022,havoc:34 +count
+Saving new input (at run 1363): input #196 of size 45; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000196 src:000022,havoc:12 +count
+Saving new input (at run 1377): input #197 of size 40; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000197 src:000022,havoc:13 +count +cov +valid
+Saving new input (at run 1386): input #198 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000198 src:000022,havoc:1 +count +cov +valid
+Saving new input (at run 1394): input #199 of size 111; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000199 src:000022,havoc:2 +count
+Saving new input (at run 1395): input #200 of size 24; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000200 src:000022,havoc:1 +count +cov +valid
+Saving new input (at run 1396): input #201 of size 32; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000201 src:000022,havoc:3 +count +cov +valid
+Saving new input (at run 1414): input #202 of size 268; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000202 src:000022,havoc:14 +count +cov
+Saving new input (at run 1415): input #203 of size 89; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000203 src:000022,havoc:6 +count +cov
+Saving new input (at run 1420): input #204 of size 73; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000204 src:000022,havoc:1 +count +cov +valid
+Saving new input (at run 1422): input #205 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000205 src:000022,havoc:1 +count +cov +valid
+Saving new input (at run 1448): input #206 of size 257; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000206 src:000022,havoc:11 +count
+Saving new input (at run 1479): input #207 of size 78; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000207 src:000023,havoc:15 +count
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 4] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000001 src:000023,havoc:4 +crash
+Saving new input (at run 1498): input #208 of size 54; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000208 src:000023,havoc:29 +count +cov +valid
+Saving new input (at run 1502): input #209 of size 51; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000209 src:000023,havoc:30 +count +cov +valid
+Saving new input (at run 1516): input #210 of size 9402; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000210 src:000023,havoc:1 +count
+Saving new input (at run 1527): input #211 of size 82; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000211 src:000023,havoc:10 +count
+Saving new input (at run 1530): input #212 of size 32; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000212 src:000023,havoc:6 +count +cov +valid
+Saving new input (at run 1533): input #213 of size 219; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000213 src:000023,havoc:3 +count
+Saving new input (at run 1538): input #214 of size 85; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000214 src:000023,havoc:5 +count +cov
+Saving new input (at run 1561): input #215 of size 57; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000215 src:000023,havoc:13 +count
+Saving new input (at run 1567): input #216 of size 61; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000216 src:000023,havoc:4 +count
+Saving new input (at run 1574): input #217 of size 41; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000217 src:000023,havoc:16 +count
+Saving new input (at run 1618): input #218 of size 45; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000218 src:000026,havoc:18 +count +cov +valid
+Saving new input (at run 1655): input #219 of size 8839; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000219 src:000026,havoc:15 +count
+Saving new input (at run 1659): input #220 of size 77; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000220 src:000026,havoc:5 +count +cov +valid
+Saving new input (at run 1671): input #221 of size 4853; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000221 src:000026,havoc:5 +count
+Saving new input (at run 1686): input #222 of size 57; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000222 src:000026,havoc:1 +count
+Saving new input (at run 1694): input #223 of size 23; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000223 src:000026,havoc:15 +count
+Saving new input (at run 1699): input #224 of size 132; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000224 src:000026,havoc:14 +count +cov
+Saving new input (at run 1706): input #225 of size 87; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000225 src:000026,havoc:1 +count
+Saving new input (at run 1708): input #226 of size 9298; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000226 src:000026,havoc:16 +count
+Saving new input (at run 1714): input #227 of size 110; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000227 src:000026,havoc:6 +count +cov
+Saving new input (at run 1730): input #228 of size 177; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000228 src:000026,havoc:6 +count
+Saving new input (at run 1738): input #229 of size 50; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000229 src:000026,havoc:15 +count
+Saving new input (at run 1742): input #230 of size 52; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000230 src:000026,havoc:13 +count +cov +valid
+Saving new input (at run 1751): input #231 of size 84; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000231 src:000026,havoc:6 +count
+Saving new input (at run 1769): input #232 of size 21; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000232 src:000027,havoc:22 +count
+Saving new input (at run 1770): input #233 of size 4818; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000233 src:000028,havoc:15 +count +cov
+Saving new input (at run 1771): input #234 of size 1252; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000234 src:000028,havoc:3 +count +cov
+Saving new input (at run 1774): input #235 of size 8420; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000235 src:000028,havoc:11 +count +cov
+Saving new input (at run 1780): input #236 of size 9094; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000236 src:000028,havoc:31 +count
+Saving new input (at run 1791): input #237 of size 7458; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000237 src:000028,havoc:4 +count
+Saving new input (at run 1794): input #238 of size 6993; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000238 src:000028,havoc:37 +count
+Saving new input (at run 1798): input #239 of size 65; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000239 src:000028,havoc:9 +count +cov +valid
+Saving new input (at run 1838): input #240 of size 67; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000240 src:000029,havoc:5 +count
+Saving new input (at run 1839): input #241 of size 40; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000241 src:000029,havoc:11 +count
+Saving new input (at run 1871): input #242 of size 41; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000242 src:000030,havoc:3 +count +cov +valid
+Saving new input (at run 1874): input #243 of size 85; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000243 src:000031,havoc:5 +count +cov +valid
+Saving new input (at run 1876): input #244 of size 134; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000244 src:000031,havoc:8 +count +cov +valid
+Saving new input (at run 1877): input #245 of size 34; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000245 src:000031,havoc:6 +count +cov +valid
+Saving new input (at run 1878): input #246 of size 45; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000246 src:000031,havoc:9 +count
+Saving new input (at run 1885): input #247 of size 109; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000247 src:000031,havoc:29 +count +cov +valid
+Saving new input (at run 1887): input #248 of size 69; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000248 src:000031,havoc:3 +count
+Saving new input (at run 1893): input #249 of size 56; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000249 src:000031,havoc:11 +count
+Saving new input (at run 1896): input #250 of size 95; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000250 src:000031,havoc:4 +count
+Saving new input (at run 1900): input #251 of size 86; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000251 src:000031,havoc:1 +count +cov
+Saving new input (at run 1904): input #252 of size 425; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000252 src:000031,havoc:1 +count
+Saving new input (at run 1911): input #253 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000253 src:000032,havoc:10 +count +cov +valid
+Saving new input (at run 1957): input #254 of size 67; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000254 src:000032,havoc:3 +count +cov +valid
+Saving new input (at run 1959): input #255 of size 153; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000255 src:000032,havoc:8 +count +cov +valid
+Saving new input (at run 1974): input #256 of size 54; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000256 src:000032,havoc:5 +count
+Saving new input (at run 1978): input #257 of size 62; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000257 src:000032,havoc:6 +count +cov +valid
+Saving new input (at run 2053): input #258 of size 34; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000258 src:000032,havoc:1 +count
+Saving new input (at run 2072): input #259 of size 49; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000259 src:000032,havoc:4 +count +cov +valid
+Saving new input (at run 2101): input #260 of size 52; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000260 src:000032,havoc:9 +count +cov +valid
+Saving new input (at run 2106): input #261 of size 41; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000261 src:000032,havoc:7 +count +cov +valid
+Saving new input (at run 2108): input #262 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000262 src:000032,havoc:19 +count +cov +valid
+Saving new input (at run 2112): input #263 of size 121; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000263 src:000032,havoc:4 +count +cov
+Saving new input (at run 2139): input #264 of size 80; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000264 src:000032,havoc:5 +count +cov
+Saving new input (at run 2184): input #265 of size 93; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000265 src:000032,havoc:8 +count
+Saving new input (at run 2198): input #266 of size 7085; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000266 src:000033,havoc:13 +count
+Saving new input (at run 2211): input #267 of size 634; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000267 src:000036,havoc:8 +count
+Saving new input (at run 2217): input #268 of size 34; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000268 src:000036,havoc:22 +count +cov +valid
+Saving new input (at run 2222): input #269 of size 134; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000269 src:000036,havoc:16 +count
+Saving new input (at run 2223): input #270 of size 119; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000270 src:000036,havoc:8 +count
+Saving new input (at run 2224): input #271 of size 139; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000271 src:000036,havoc:6 +count
+Saving new input (at run 2225): input #272 of size 139; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000272 src:000036,havoc:6 +count
+Saving new input (at run 2238): input #273 of size 139; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000273 src:000036,havoc:1 +count
+Saving new input (at run 2242): input #274 of size 237; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000274 src:000036,havoc:9 +count
+Saving new input (at run 2254): input #275 of size 134; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000275 src:000036,havoc:27 +count
+Saving new input (at run 2294): input #276 of size 56; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000276 src:000038,havoc:1 +count +cov +valid
+Saving new input (at run 2297): input #277 of size 3717; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000277 src:000038,havoc:9 +count
+Saving new input (at run 2301): input #278 of size 90; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000278 src:000038,havoc:9 +count +cov +valid
+Saving new input (at run 2304): input #279 of size 42; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000279 src:000038,havoc:11 +count +cov +valid
+Saving new input (at run 2314): input #280 of size 155; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000280 src:000038,havoc:7 +count
+Saving new input (at run 2326): input #281 of size 61; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000281 src:000038,havoc:3 +count +cov +valid
+Saving new input (at run 2354): input #282 of size 61; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000282 src:000038,havoc:11 +count
+Saving new input (at run 2398): input #283 of size 73; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000283 src:000042,havoc:9 +count +cov
+Saving new input (at run 2415): input #284 of size 50; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000284 src:000042,havoc:9 +count
+Saving new input (at run 2419): input #285 of size 441; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000285 src:000042,havoc:11 +count +cov
+Saving new input (at run 2446): input #286 of size 110; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000286 src:000042,havoc:6 +count
+Saving new input (at run 2456): input #287 of size 32; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000287 src:000042,havoc:6 +count
+Saving new input (at run 2510): input #288 of size 41; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000288 src:000043,havoc:4 +count
+Saving new input (at run 2516): input #289 of size 36; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000289 src:000044,havoc:28 +count
+Saving new input (at run 2527): input #290 of size 51; reason = +count +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000290 src:000049,havoc:5 +count +valid
+Saving new input (at run 2531): input #291 of size 85; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000291 src:000049,havoc:3 +count
+Saving new input (at run 2590): input #292 of size 200; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000292 src:000049,havoc:5 +count
+Saving new input (at run 2600): input #293 of size 9953; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000293 src:000049,havoc:4 +count
+Saving new input (at run 2645): input #294 of size 120; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000294 src:000049,havoc:3 +count
+Saving new input (at run 2650): input #295 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000295 src:000049,havoc:8 +count +cov +valid
+Saving new input (at run 2654): input #296 of size 83; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000296 src:000049,havoc:2 +count
+Saving new input (at run 2675): input #297 of size 84; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000297 src:000049,havoc:14 +count
+Saving new input (at run 2686): input #298 of size 33; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000298 src:000049,havoc:10 +count
+Saving new input (at run 2703): input #299 of size 35; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000299 src:000049,havoc:16 +count +cov +valid
+Saving new input (at run 2805): input #300 of size 29; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000300 src:000049,havoc:4 +count +cov +valid
+Saving new input (at run 2837): input #301 of size 50; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000301 src:000051,havoc:3 +count
+Saving new input (at run 2856): input #302 of size 21; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000302 src:000051,havoc:2 +count
+Saving new input (at run 2858): input #303 of size 8454; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000303 src:000051,havoc:5 +count +cov
+Saving new input (at run 2886): input #304 of size 96; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000304 src:000051,havoc:2 +count +cov +valid
+Saving new input (at run 2887): input #305 of size 189; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000305 src:000051,havoc:42 +count +cov +valid
+Saving new input (at run 2892): input #306 of size 55; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000306 src:000051,havoc:16 +count
+Saving new input (at run 2894): input #307 of size 32; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000307 src:000051,havoc:9 +count
+Saving new input (at run 2904): input #308 of size 50; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000308 src:000051,havoc:2 +count
+Saving new input (at run 2916): input #309 of size 60; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000309 src:000051,havoc:1 +count
+Saving new input (at run 2917): input #310 of size 126; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000310 src:000051,havoc:5 +count +cov +valid
+Saving new input (at run 2918): input #311 of size 114; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000311 src:000051,havoc:1 +count +cov +valid
+Saving new input (at run 2944): input #312 of size 56; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000312 src:000051,havoc:17 +count
+Saving new input (at run 2949): input #313 of size 60; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000313 src:000051,havoc:3 +count
+Saving new input (at run 2959): input #314 of size 8999; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000314 src:000051,havoc:2 +count
+Saving new input (at run 2962): input #315 of size 37; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000315 src:000051,havoc:5 +count
+Saving new input (at run 2967): input #316 of size 57; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000316 src:000051,havoc:7 +count
+Saving new input (at run 2981): input #317 of size 55; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000317 src:000051,havoc:5 +count
+Saving new input (at run 3006): input #318 of size 42; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000318 src:000053,havoc:6 +count
+Saving new input (at run 3072): input #319 of size 65; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000319 src:000053,havoc:7 +count
+Saving new input (at run 3074): input #320 of size 77; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000320 src:000053,havoc:8 +count +cov +valid
+Saving new input (at run 3148): input #321 of size 60; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000321 src:000053,havoc:10 +count
+Saving new input (at run 3180): input #322 of size 48; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000322 src:000053,havoc:6 +count
+Saving new input (at run 3243): input #323 of size 84; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000323 src:000053,havoc:2 +count +cov +valid
+Saving new input (at run 3312): input #324 of size 59; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000324 src:000055,havoc:10 +count +cov +valid
+Saving new input (at run 3321): input #325 of size 32; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000325 src:000055,havoc:7 +count
+Saving new input (at run 3340): input #326 of size 56; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000326 src:000055,havoc:1 +count +cov +valid
+Saving new input (at run 3391): input #327 of size 28; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000327 src:000055,havoc:2 +count
+Saving new input (at run 3443): input #328 of size 46; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000328 src:000055,havoc:18 +count
+Saving new input (at run 3492): input #329 of size 36; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000329 src:000056,havoc:1 +count +cov +valid
+Saving new input (at run 3543): input #330 of size 9867; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000330 src:000056,havoc:6 +count
+Saving new input (at run 3572): input #331 of size 3301; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000331 src:000056,havoc:9 +count
+Saving new input (at run 3587): input #332 of size 508; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000332 src:000056,havoc:13 +count
+Saving new input (at run 3598): input #333 of size 35; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000333 src:000056,havoc:4 +count
+Saving new input (at run 3601): input #334 of size 37; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000334 src:000056,havoc:18 +count +cov
+Saving new input (at run 3617): input #335 of size 6674; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000335 src:000056,havoc:9 +count
+Saving new input (at run 3643): input #336 of size 141; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000336 src:000056,havoc:6 +count
+Saving new input (at run 3658): input #337 of size 84; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000337 src:000056,havoc:5 +count
+Saving new input (at run 3695): input #338 of size 93; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000338 src:000057,havoc:3 +count +cov +valid
+Saving new input (at run 3792): input #339 of size 77; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000339 src:000057,havoc:14 +count
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 9] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000002 src:000057,havoc:5 +crash
+Saving new input (at run 3915): input #340 of size 174; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000340 src:000057,havoc:10 +count
+Saving new input (at run 3932): input #341 of size 34; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000341 src:000057,havoc:3 +count +cov +valid
+Saving new input (at run 3934): input #342 of size 58; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000342 src:000057,havoc:1 +count +cov +valid
+Saving new input (at run 3937): input #343 of size 79; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000343 src:000057,havoc:4 +count +cov +valid
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 7] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000003 src:000060,havoc:14 +crash
+Saving new input (at run 4018): input #344 of size 113; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000344 src:000060,havoc:15 +count +cov +valid
+Saving new input (at run 4036): input #345 of size 29; reason = +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000345 src:000060,havoc:1 +valid
+Saving new input (at run 4042): input #346 of size 133; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000346 src:000060,havoc:6 +count +cov +valid
+Saving new input (at run 4044): input #347 of size 54; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000347 src:000060,havoc:10 +count
+Saving new input (at run 4054): input #348 of size 72; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000348 src:000060,havoc:18 +count
+Saving new input (at run 4057): input #349 of size 55; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000349 src:000060,havoc:6 +count +cov +valid
+Saving new input (at run 4071): input #350 of size 58; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000350 src:000060,havoc:3 +count +cov +valid
+Saving new input (at run 4082): input #351 of size 24; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000351 src:000060,havoc:64 +count
+Saving new input (at run 4104): input #352 of size 46; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000352 src:000060,havoc:16 +count +cov +valid
+Saving new input (at run 4113): input #353 of size 46; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000353 src:000061,havoc:3 +count
+Saving new input (at run 4125): input #354 of size 34; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000354 src:000061,havoc:13 +count
+Saving new input (at run 4129): input #355 of size 10061; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000355 src:000061,havoc:3 +count
+Saving new input (at run 4139): input #356 of size 184; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000356 src:000061,havoc:4 +count
+Saving new input (at run 4151): input #357 of size 6832; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000357 src:000061,havoc:6 +count
+Saving new input (at run 4166): input #358 of size 65; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000358 src:000062,havoc:18 +count
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 9] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000004 src:000062,havoc:9 +crash
+Saving new input (at run 4175): input #359 of size 122; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000359 src:000062,havoc:3 +count
+Saving new input (at run 4198): input #360 of size 81; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000360 src:000063,havoc:3 +count +cov +valid
+Saving new input (at run 4205): input #361 of size 121; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000361 src:000063,havoc:6 +count
+Saving new input (at run 4234): input #362 of size 87; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000362 src:000063,havoc:4 +count
+Saving new input (at run 4239): input #363 of size 104; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000363 src:000063,havoc:2 +count
+Saving new input (at run 4251): input #364 of size 174; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000364 src:000064,havoc:16 +count
+Saving new input (at run 4274): input #365 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000365 src:000064,havoc:3 +count +cov +valid
+Saving new input (at run 4329): input #366 of size 129; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000366 src:000064,havoc:6 +count +cov +valid
+Saving new input (at run 4437): input #367 of size 61; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000367 src:000064,havoc:9 +count +cov +valid
+Saving new input (at run 4446): input #368 of size 48; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000368 src:000064,havoc:3 +count +cov +valid
+Saving new input (at run 4465): input #369 of size 38; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000369 src:000064,havoc:5 +count
+Saving new input (at run 4495): input #370 of size 198; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000370 src:000070,havoc:9 +count
+Saving new input (at run 4513): input #371 of size 214; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000371 src:000070,havoc:5 +count
+Saving new input (at run 4537): input #372 of size 66; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000372 src:000070,havoc:11 +count +cov +valid
+Saving new input (at run 4541): input #373 of size 61; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000373 src:000070,havoc:3 +count +cov +valid
+Saving new input (at run 4556): input #374 of size 135; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000374 src:000070,havoc:1 +count +cov +valid
+Saving new input (at run 4561): input #375 of size 58; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000375 src:000070,havoc:15 +count +cov +valid
+Saving new input (at run 4583): input #376 of size 76; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000376 src:000070,havoc:3 +count +cov +valid
+Saving new input (at run 4599): input #377 of size 75; reason = +count +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000377 src:000070,havoc:3 +count +valid
+Saving new input (at run 4613): input #378 of size 61; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000378 src:000072,havoc:11 +count
+Saving new input (at run 4614): input #379 of size 156; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000379 src:000072,havoc:2 +count
+Saving new input (at run 4627): input #380 of size 71; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000380 src:000072,havoc:23 +count
+Saving new input (at run 4648): input #381 of size 61; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000381 src:000072,havoc:3 +count
+Saving new input (at run 4665): input #382 of size 119; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000382 src:000072,havoc:1 +count +cov +valid
+Saving new input (at run 4670): input #383 of size 127; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000383 src:000072,havoc:1 +count +cov +valid
+Saving new input (at run 4686): input #384 of size 93; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000384 src:000072,havoc:2 +count +cov +valid
+Saving new input (at run 4697): input #385 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000385 src:000072,havoc:30 +count +cov +valid
+Saving new input (at run 4729): input #386 of size 138; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000386 src:000072,havoc:13 +count +cov +valid
+Saving new input (at run 4739): input #387 of size 115; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000387 src:000072,havoc:1 +count
+Found crash: class java.lang.NullPointerException - NAME undefined 1 [length: 9] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000005 src:000072,havoc:2 +crash
+Found crash: class java.lang.NullPointerException - NAME q_1 1 [length: 3] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000006 src:000073,havoc:13 +crash
+Saving new input (at run 5004): input #388 of size 31; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000388 src:000073,havoc:16 +count
+Saving new input (at run 5045): input #389 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000389 src:000074,havoc:14 +count +cov +valid
+Saving new input (at run 5078): input #390 of size 24; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000390 src:000074,havoc:12 +count
+Saving new input (at run 5085): input #391 of size 62; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000391 src:000074,havoc:10 +count +cov +valid
+Saving new input (at run 5185): input #392 of size 63; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000392 src:000074,havoc:4 +count +cov +valid
+Saving new input (at run 5186): input #393 of size 99; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000393 src:000074,havoc:2 +count
+Saving new input (at run 5207): input #394 of size 41; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000394 src:000074,havoc:6 +count +cov +valid
+Saving new input (at run 5211): input #395 of size 72; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000395 src:000074,havoc:2 +count +cov +valid
+Saving new input (at run 5213): input #396 of size 39; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000396 src:000074,havoc:4 +count
+Saving new input (at run 5216): input #397 of size 59; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000397 src:000074,havoc:1 +count +cov +valid
+Saving new input (at run 5230): input #398 of size 403; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000398 src:000074,havoc:2 +count +cov
+Saving new input (at run 5242): input #399 of size 37; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000399 src:000074,havoc:20 +count +cov +valid
+Saving new input (at run 5382): input #400 of size 6345; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000400 src:000076,havoc:16 +count +cov
+Saving new input (at run 5453): input #401 of size 85; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000401 src:000076,havoc:7 +count
+Saving new input (at run 5462): input #402 of size 59; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000402 src:000076,havoc:14 +count +cov +valid
+Saving new input (at run 5478): input #403 of size 23; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000403 src:000076,havoc:19 +count +cov +valid
+Saving new input (at run 5680): input #404 of size 351; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000404 src:000078,havoc:5 +count
+Saving new input (at run 5753): input #405 of size 47; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000405 src:000078,havoc:2 +count +cov +valid
+Saving new input (at run 5825): input #406 of size 6970; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000406 src:000078,havoc:6 +count
+Saving new input (at run 5861): input #407 of size 49; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000407 src:000078,havoc:12 +count
+Saving new input (at run 5879): input #408 of size 86; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000408 src:000078,havoc:12 +count
+Saving new input (at run 5896): input #409 of size 44; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000409 src:000081,havoc:9 +count
+Saving new input (at run 5910): input #410 of size 282; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000410 src:000081,havoc:6 +count
+Saving new input (at run 5914): input #411 of size 148; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000411 src:000081,havoc:6 +count +cov +valid
+Saving new input (at run 5965): input #412 of size 87; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000412 src:000081,havoc:7 +count +cov +valid
+Saving new input (at run 5984): input #413 of size 92; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000413 src:000081,havoc:19 +count +cov +valid
+Saving new input (at run 6046): input #414 of size 3496; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000414 src:000082,havoc:13 +count
+Saving new input (at run 6082): input #415 of size 105; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000415 src:000082,havoc:5 +count
+Saving new input (at run 6118): input #416 of size 34; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000416 src:000082,havoc:12 +count +cov +valid
+Saving new input (at run 6195): input #417 of size 9113; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000417 src:000082,havoc:2 +count
+Saving new input (at run 6215): input #418 of size 57; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000418 src:000082,havoc:14 +count +cov +valid
+Saving new input (at run 6274): input #419 of size 83; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000419 src:000082,havoc:17 +count
+Saving new input (at run 6282): input #420 of size 90; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000420 src:000083,havoc:8 +count
+Saving new input (at run 6283): input #421 of size 72; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000421 src:000083,havoc:7 +count
+Saving new input (at run 6295): input #422 of size 50; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000422 src:000083,havoc:4 +count +cov +valid
+Saving new input (at run 6336): input #423 of size 77; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000423 src:000083,havoc:17 +count
+Found crash: class java.lang.NullPointerException - NAME e_5 1 [length: 3] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000007 src:000083,havoc:6 +crash
+Saving new input (at run 6355): input #424 of size 25; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000424 src:000083,havoc:2 +count
+Saving new input (at run 6366): input #425 of size 107; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000425 src:000083,havoc:3 +count +cov +valid
+Saving new input (at run 6397): input #426 of size 39; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000426 src:000083,havoc:1 +count
+Saving new input (at run 6420): input #427 of size 1301; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000427 src:000083,havoc:24 +count
+Saving new input (at run 6421): input #428 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000428 src:000083,havoc:2 +count +cov +valid
+Saving new input (at run 6439): input #429 of size 33; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000429 src:000083,havoc:4 +count +cov +valid
+Saving new input (at run 6440): input #430 of size 28; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000430 src:000083,havoc:3 +count
+Saving new input (at run 6446): input #431 of size 59; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000431 src:000083,havoc:3 +count +cov +valid
+Saving new input (at run 6486): input #432 of size 8919; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000432 src:000083,havoc:17 +count
+Saving new input (at run 6489): input #433 of size 62; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000433 src:000083,havoc:6 +count +cov +valid
+Saving new input (at run 6568): input #434 of size 89; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000434 src:000085,havoc:10 +count
+Saving new input (at run 6578): input #435 of size 832; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000435 src:000085,havoc:4 +count
+Saving new input (at run 6580): input #436 of size 50; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000436 src:000085,havoc:16 +count
+Saving new input (at run 6586): input #437 of size 89; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000437 src:000085,havoc:4 +count +cov +valid
+Saving new input (at run 6591): input #438 of size 203; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000438 src:000085,havoc:7 +count +cov +valid
+Saving new input (at run 6600): input #439 of size 168; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000439 src:000085,havoc:2 +count +cov +valid
+Saving new input (at run 6623): input #440 of size 217; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000440 src:000085,havoc:4 +count +cov +valid
+Saving new input (at run 6625): input #441 of size 173; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000441 src:000085,havoc:2 +count +cov +valid
+Saving new input (at run 6631): input #442 of size 127; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000442 src:000085,havoc:3 +count
+Saving new input (at run 6644): input #443 of size 76; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000443 src:000086,havoc:2 +count +cov +valid
+Saving new input (at run 6648): input #444 of size 107; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000444 src:000086,havoc:11 +count +cov +valid
+Saving new input (at run 6658): input #445 of size 76; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000445 src:000086,havoc:3 +count +cov +valid
+Saving new input (at run 6667): input #446 of size 76; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000446 src:000086,havoc:7 +count
+Saving new input (at run 6712): input #447 of size 91; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000447 src:000086,havoc:3 +count +cov +valid
+Saving new input (at run 6716): input #448 of size 10156; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000448 src:000086,havoc:23 +count
+Saving new input (at run 6752): input #449 of size 10196; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000449 src:000086,havoc:7 +count
+Saving new input (at run 6775): input #450 of size 64; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000450 src:000086,havoc:13 +count
+Saving new input (at run 6789): input #451 of size 155; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000451 src:000086,havoc:8 +count +cov
+Saving new input (at run 6827): input #452 of size 126; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000452 src:000086,havoc:4 +count
+Saving new input (at run 6855): input #453 of size 90; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000453 src:000086,havoc:8 +count
+Saving new input (at run 6887): input #454 of size 9552; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000454 src:000088,havoc:53 +count
+Saving new input (at run 6904): input #455 of size 2563; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000455 src:000088,havoc:4 +count
+Saving new input (at run 6908): input #456 of size 66; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000456 src:000088,havoc:5 +count
+Saving new input (at run 6924): input #457 of size 74; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000457 src:000088,havoc:2 +count
+Saving new input (at run 6950): input #458 of size 63; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000458 src:000088,havoc:8 +count
+Saving new input (at run 6993): input #459 of size 4050; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000459 src:000088,havoc:1 +count +cov
+Saving new input (at run 7004): input #460 of size 9998; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000460 src:000088,havoc:3 +count
+Saving new input (at run 7025): input #461 of size 65; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000461 src:000088,havoc:6 +count
+Saving new input (at run 7030): input #462 of size 75; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000462 src:000089,havoc:5 +count
+Saving new input (at run 7031): input #463 of size 20; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000463 src:000089,havoc:32 +count
+Saving new input (at run 7032): input #464 of size 135; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000464 src:000089,havoc:1 +count
+Saving new input (at run 7033): input #465 of size 79; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000465 src:000089,havoc:5 +count
+Saving new input (at run 7040): input #466 of size 79; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000466 src:000089,havoc:6 +count +cov +valid
+Saving new input (at run 7043): input #467 of size 70; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000467 src:000089,havoc:9 +count
+Saving new input (at run 7101): input #468 of size 98; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000468 src:000089,havoc:4 +count
+Saving new input (at run 7121): input #469 of size 126; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000469 src:000089,havoc:10 +count +cov +valid
+Saving new input (at run 7135): input #470 of size 113; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000470 src:000089,havoc:9 +count
+Saving new input (at run 7138): input #471 of size 60; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000471 src:000089,havoc:1 +count
+Saving new input (at run 7178): input #472 of size 381; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000472 src:000089,havoc:14 +count
+Saving new input (at run 7226): input #473 of size 144; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000473 src:000089,havoc:3 +count
+Saving new input (at run 7345): input #474 of size 33; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000474 src:000090,havoc:7 +count
+Saving new input (at run 7430): input #475 of size 41; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000475 src:000090,havoc:17 +count
+Saving new input (at run 7439): input #476 of size 50; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000476 src:000090,havoc:2 +count +cov +valid
+Saving new input (at run 7463): input #477 of size 49; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000477 src:000090,havoc:3 +count +cov +valid
+Saving new input (at run 7473): input #478 of size 127; reason = +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000478 src:000090,havoc:5 +valid
+Saving new input (at run 7479): input #479 of size 521; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000479 src:000090,havoc:4 +count
+Saving new input (at run 7491): input #480 of size 105; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000480 src:000090,havoc:3 +count
+Saving new input (at run 7520): input #481 of size 279; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000481 src:000090,havoc:6 +count +cov +valid
+Saving new input (at run 7634): input #482 of size 42; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000482 src:000092,havoc:4 +count +cov +valid
+Saving new input (at run 7642): input #483 of size 69; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000483 src:000092,havoc:4 +count +cov +valid
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 9] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000008 src:000092,havoc:5 +crash
+Saving new input (at run 7681): input #484 of size 34; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000484 src:000092,havoc:5 +count +cov +valid
+Saving new input (at run 7715): input #485 of size 60; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000485 src:000092,havoc:12 +count +cov +valid
+Saving new input (at run 7725): input #486 of size 58; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000486 src:000092,havoc:1 +count
+Saving new input (at run 7737): input #487 of size 170; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000487 src:000092,havoc:1 +count
+Saving new input (at run 7741): input #488 of size 91; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000488 src:000092,havoc:11 +count
+Found crash: class java.lang.NullPointerException - NAME a_2 1 [length: 3] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000009 src:000092,havoc:1 +crash
+Saving new input (at run 7981): input #489 of size 75; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000489 src:000093,havoc:18 +count +cov +valid
+Saving new input (at run 8015): input #490 of size 46; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000490 src:000093,havoc:3 +count +cov +valid
+Saving new input (at run 8017): input #491 of size 110; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000491 src:000093,havoc:16 +count +cov +valid
+Saving new input (at run 8035): input #492 of size 45; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000492 src:000093,havoc:7 +count +cov +valid
+Saving new input (at run 8043): input #493 of size 166; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000493 src:000093,havoc:3 +count
+Saving new input (at run 8045): input #494 of size 67; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000494 src:000093,havoc:10 +count +cov +valid
+Saving new input (at run 8086): input #495 of size 66; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000495 src:000094,havoc:23 +count +cov +valid
+Saving new input (at run 8142): input #496 of size 129; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000496 src:000095,havoc:33 +count
+Saving new input (at run 8150): input #497 of size 37; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000497 src:000095,havoc:1 +count
+Saving new input (at run 8157): input #498 of size 80; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000498 src:000095,havoc:4 +count +cov +valid
+Saving new input (at run 8173): input #499 of size 7873; reason = +count +cov
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000499 src:000095,havoc:19 +count +cov
+Saving new input (at run 8193): input #500 of size 52; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000500 src:000095,havoc:3 +count +cov +valid
+Saving new input (at run 8228): input #501 of size 47; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000501 src:000095,havoc:3 +count
+Saving new input (at run 8283): input #502 of size 412; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000502 src:000102,havoc:10 +count
+Saving new input (at run 8287): input #503 of size 122; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000503 src:000102,havoc:5 +count +cov +valid
+Saving new input (at run 8291): input #504 of size 261; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000504 src:000102,havoc:36 +count
+Saving new input (at run 8305): input #505 of size 63; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000505 src:000103,havoc:1 +count
+Saving new input (at run 8327): input #506 of size 120; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000506 src:000105,havoc:3 +count +cov +valid
+Saving new input (at run 8346): input #507 of size 99; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000507 src:000105,havoc:4 +count +cov +valid
+Saving new input (at run 8356): input #508 of size 123; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000508 src:000105,havoc:8 +count
+Saving new input (at run 8369): input #509 of size 8035; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000509 src:000105,havoc:5 +count
+Saving new input (at run 8378): input #510 of size 59; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000510 src:000106,havoc:3 +count
+Saving new input (at run 8381): input #511 of size 93; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000511 src:000106,havoc:6 +count
+Found crash: class java.lang.NullPointerException - NAME o_1 1 [length: 3] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000010 src:000115,havoc:18 +crash
+Saving new input (at run 8500): input #512 of size 131; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000512 src:000115,havoc:6 +count +cov +valid
+Saving new input (at run 8510): input #513 of size 122; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000513 src:000115,havoc:2 +count
+Saving new input (at run 8535): input #514 of size 483; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000514 src:000117,havoc:2 +count
+Saving new input (at run 8536): input #515 of size 131; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000515 src:000117,havoc:1 +count
+Saving new input (at run 8612): input #516 of size 65; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000516 src:000117,havoc:8 +count +cov +valid
+Saving new input (at run 8617): input #517 of size 5306; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000517 src:000117,havoc:8 +count
+Saving new input (at run 8622): input #518 of size 100; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000518 src:000117,havoc:1 +count +cov +valid
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 12] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000011 src:000117,havoc:3 +crash
+Saving new input (at run 8648): input #519 of size 36; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000519 src:000117,havoc:12 +count
+Saving new input (at run 8653): input #520 of size 8665; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000520 src:000117,havoc:5 +count
+Saving new input (at run 8811): input #521 of size 76; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000521 src:000118,havoc:23 +count +cov +valid
+Saving new input (at run 8970): input #522 of size 78; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000522 src:000121,havoc:7 +count
+Saving new input (at run 8994): input #523 of size 92; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000523 src:000121,havoc:18 +count
+Saving new input (at run 9003): input #524 of size 103; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000524 src:000121,havoc:1 +count +cov +valid
+Saving new input (at run 9025): input #525 of size 59; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000525 src:000121,havoc:7 +count
+Found crash: class java.lang.NullPointerException - NAME u_1 1 [length: 3] [source_file: input]
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000012 src:000121,havoc:6 +crash
+Saving new input (at run 9045): input #526 of size 74; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000526 src:000121,havoc:4 +count +cov +valid
+Saving new input (at run 9310): input #527 of size 119; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000527 src:000122,havoc:1 +count
+Saving new input (at run 9383): input #528 of size 134; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000528 src:000123,havoc:11 +count
+Saving new input (at run 9429): input #529 of size 67; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000529 src:000123,havoc:1 +count +cov +valid
+Saving new input (at run 9475): input #530 of size 69; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000530 src:000123,havoc:4 +count +cov +valid
+Saving new input (at run 9493): input #531 of size 102; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000531 src:000123,havoc:25 +count +cov +valid
+Saving new input (at run 9543): input #532 of size 48; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000532 src:000124,havoc:1 +count +cov +valid
+Saving new input (at run 9574): input #533 of size 77; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000533 src:000124,havoc:10 +count +cov +valid
+Saving new input (at run 9592): input #534 of size 88; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000534 src:000124,havoc:2 +count
+Saving new input (at run 9619): input #535 of size 61; reason = +count +cov +valid
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000535 src:000124,havoc:7 +count +cov +valid
+Saving new input (at run 9652): input #536 of size 597; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000536 src:000126,havoc:9 +count
+Saving new input (at run 9666): input #537 of size 250; reason = +count
+Saved - /Users/nino/Downloads/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000537 src:000126,havoc:10 +count
