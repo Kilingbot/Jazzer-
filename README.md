@@ -1,1 +1,1 @@
-# Jazzer- 这里是我的jazzer模糊测试实践过程
+# Jazzer and JQF fuzzing test.
